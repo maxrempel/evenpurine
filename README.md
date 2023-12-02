@@ -11,6 +11,13 @@ The `alu_unsplit.py` script will produce alignments with alu bins that are not s
 
 The `alu_unsplit_RANDOM.py` script will calculate perhomol based in a random pattern that do not correspond to the odd/even intervals. Each time you run, you have a new random pattern being used.
 
+Requisites to use the scripts:
+python 3.11+
+blastn v.2.14+
+Biopython
+pandas
+
+
 The three scripts have the same usage:
 
 ````
